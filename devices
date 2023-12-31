@@ -110,11 +110,6 @@
                "active": true,
                "maintainers": [
                     {
-                         "name": "herna",
-                         "link": "https://forum.xda-developers.com/m/herna.2225255/",
-                         "country": "ES"
-                    },
-                    {
                          "name": "xboxfanj",
                          "link": "https://forum.xda-developers.com/m/xboxfanj.4003363/",
                          "country": "US"
@@ -125,7 +120,7 @@
                          "country": "CH"
                     }
                ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-nothing-phone-1.4505797/"
+               "xda_thread": "https://xdaforums.com/t/paranoid-android-uvite-nothing-phone-1.4648478/"
           },
           {
                "name": "5",
