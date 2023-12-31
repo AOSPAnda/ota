@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-12-31",
+      "datetime": "1704036174",
+      "filename": "aospa-uvite-beta-phone1-20231231.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone1-20231231.zip",
+      "recovery_sha256": "f19def18141c473245e698fb8af87e52dce89446c33e4011434dbe126e8f13fa",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone1-20231231-image.zip",
+      "fastboot_sha256": "a484e4421f99607a8a02de8ca7013a5e287cd2cefd47b13091d693345e2c08ea",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "2078270622",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2023-12-05",
+      "changelog_device": "First release. NOTE: This build does not have OTA, so the next build will need to be flashed manually in 2024."
+    },
+    {
       "date": "2023-09-16",
       "datetime": "1694899555",
       "filename": "aospa-topaz-9-phone1-20230916.zip",
