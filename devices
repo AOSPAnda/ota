@@ -104,6 +104,20 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-google-pixel-7-pro.4520783/"
           },
           {
+               "name": "Edge 30",
+               "codename": "dubai",
+               "manufacturer": "Motorola",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "kunmun36",
+                         "link": "https://forum.xda-developers.com/m/kunmun36.12667599/",
+                         "country": "IN"
+                    }
+               ],
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-motorola-edge-30.4621245/"
+          },
+          {
                "name": "phone (1)",
                "codename": "phone1",
                "manufacturer": "Nothing",
@@ -418,6 +432,25 @@
                "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-topaz-1-poco-x3-pro-bhima-vayu.4585859/"
           },
           {
+               "name": "GT2",
+               "codename": "porsche",
+               "manufacturer": "realme",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "kunmun36",
+                         "link": "https://forum.xda-developers.com/m/kunmun36.12667599/",
+                         "country": "IN"
+                    },
+                    {
+                         "name": "xyz_sourav",
+                         "link": "https://forum.xda-developers.com/m/xyz_sourav.11956971/",
+                         "country": "IN"
+                    }
+               ],
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-realme-gt-2.4616375/"
+          },
+          {
                "name": "GT Neo2 5G",
                "codename": "bitra",
                "manufacturer": "realme",
@@ -528,6 +561,20 @@
                     }
                ],
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-redmi-9t.4578317/"
+          },
+          {
+               "name": "F5",
+               "codename": "marble",
+               "manufacturer": "POCO",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "ghostrider_reborn",
+                         "link": "https://forum.xda-developers.com/m/adithya-r.6560166/",
+                         "country": "IN"
+                    }
+               ],
+               "xda_thread": "https://xdaforums.com/t/rom-13-paranoid-android-topaz-stable-1-poco-f5-redmi-note-12-turbo-marble.4635595/"
           },
           {
                "name": "K30",
@@ -702,6 +749,34 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-redmi-note-11-11-nfc.4544771/"
           },
           {
+               "name": "Note 12 Turbo",
+               "codename": "marble",
+               "manufacturer": "Redmi",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "ghostrider_reborn",
+                         "link": "https://forum.xda-developers.com/m/adithya-r.6560166/",
+                         "country": "IN"
+                    }
+               ],
+               "xda_thread": "https://xdaforums.com/t/rom-13-paranoid-android-topaz-stable-1-poco-f5-redmi-note-12-turbo-marble.4635595/"
+          },
+          {
+               "name": "13 / 13 Pro",
+               "codename": "xiaomi13",
+               "manufacturer": "Xiaomi",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "33bca",
+                         "link": "https://forum.xda-developers.com/m/33bca.5296790/",
+                         "country": "CH"
+                    }
+               ],
+               "xda_thread": "https://xdaforums.com/t/paranoid-android-uvite-xiaomi-13-pro.4630549/"
+          },
+          {
                "name": "Mi 8",
                "codename": "dipper",
                "manufacturer": "Xiaomi",
@@ -840,81 +915,6 @@
                     }
                ],
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-mix-3.4400743/"
-          },
-          {
-               "name": "GT2",
-               "codename": "porsche",
-               "manufacturer": "realme",
-               "active": true,
-               "maintainers": [
-                    {
-                         "name": "kunmun36",
-                         "link": "https://forum.xda-developers.com/m/kunmun36.12667599/",
-                         "country": "IN"
-                    },
-                    {
-                         "name": "xyz_sourav",
-                         "link": "https://forum.xda-developers.com/m/xyz_sourav.11956971/",
-                         "country": "IN"
-                    }
-               ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-realme-gt-2.4616375/"
-          },
-          {
-               "name": "Edge 30",
-               "codename": "dubai",
-               "manufacturer": "Motorola",
-               "active": true,
-               "maintainers": [
-                    {
-                         "name": "kunmun36",
-                         "link": "https://forum.xda-developers.com/m/kunmun36.12667599/",
-                         "country": "IN"
-                    }
-               ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-motorola-edge-30.4621245/"
-          },
-          {
-               "name": "13",
-               "codename": "fuxi",
-               "manufacturer": "Xiaomi",
-               "active": true,
-               "maintainers": [
-                    {
-                         "name": "33bca",
-                         "link": "https://forum.xda-developers.com/m/33bca.5296790/",
-                         "country": "CH"
-                    }
-               ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-alpha-1-xiaomi-13.4630549/"
-          },
-          {
-               "name": "F5",
-               "codename": "marble",
-               "manufacturer": "POCO",
-               "active": true,
-               "maintainers": [
-                    {
-                         "name": "ghostrider_reborn",
-                         "link": "https://forum.xda-developers.com/m/adithya-r.6560166/",
-                         "country": "IN"
-                    }
-               ],
-               "xda_thread": "https://xdaforums.com/t/rom-13-paranoid-android-topaz-stable-1-poco-f5-redmi-note-12-turbo-marble.4635595/"
-          },
-          {
-               "name": "Note 12 Turbo",
-               "codename": "marble",
-               "manufacturer": "Redmi",
-               "active": true,
-               "maintainers": [
-                    {
-                         "name": "ghostrider_reborn",
-                         "link": "https://forum.xda-developers.com/m/adithya-r.6560166/",
-                         "country": "IN"
-                    }
-               ],
-               "xda_thread": "https://xdaforums.com/t/rom-13-paranoid-android-topaz-stable-1-poco-f5-redmi-note-12-turbo-marble.4635595/"
           }
      ]
 }
