@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-12-31",
+      "datetime": "1704056264",
+      "filename": "aospa-uvite-beta-mi439-20231231.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-mi439-20231231.zip",
+      "recovery_sha256": "1bada78d393a5d44d2ac9c17ed29ae2963cef6072139dd6a0f2546d12a5b4baa",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "1906244413",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2023-12-05",
+      "changelog_device": "First release. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+    },
+    {
       "date": "2023-10-08",
       "datetime": "1696793556",
       "filename": "aospa-topaz-6-mi439-20231008.zip",
