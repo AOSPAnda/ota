@@ -390,6 +390,20 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-poco-m3.4578313/"
           },
           {
+               "name": "M6 Pro",
+               "codename": "sky",
+               "manufacturer": "POCO",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "redducc",
+                         "link": "https://xdaforums.com/m/redducc.11452247/",
+                         "country": "IN"
+                    }
+               ],
+               "xda_thread": null
+          },
+          {
                "name": "X2",
                "codename": "phoenix",
                "manufacturer": "POCO",
@@ -561,6 +575,20 @@
                     }
                ],
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-redmi-9t.4578317/"
+          },
+          {
+               "name": "12 5G",
+               "codename": "sky",
+               "manufacturer": "Redmi",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "redducc",
+                         "link": "https://xdaforums.com/m/redducc.11452247/",
+                         "country": "IN"
+                    }
+               ],
+               "xda_thread": null
           },
           {
                "name": "F5",

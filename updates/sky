@@ -1,0 +1,23 @@
+{
+  "updates": [
+    {
+      "date": "2024-01-01",
+      "datetime": "1704099057",
+      "filename": "aospa-uvite-beta-sky-20240101.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-sky-20240101.zip",
+      "recovery_sha256": "dabf53ed67927160bef71c0ab6578f118ee85cf4062d77816e073d9519c9e8d9",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-sky-20240101-image.zip",
+      "fastboot_sha256": "02d6360de3d82b37132f925056ca8857e05e10195a40ab3af8ba0ebe9a80d134",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "1842866948",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2023-12-05",
+      "changelog_device": "First release. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+    }
+  ]
+}
