@@ -791,6 +791,20 @@
                "xda_thread": "https://xdaforums.com/t/rom-13-paranoid-android-topaz-stable-1-poco-f5-redmi-note-12-turbo-marble.4635595/"
           },
           {
+               "name": "12X",
+               "codename": "psyche",
+               "manufacturer": "Xiaomi",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "mickaelmendes50",
+                         "link": "https://forum.xda-developers.com/m/mickaelmendes50.7258823/",
+                         "country": "BR"
+                    }
+               ],
+               "xda_thread": "https://xdaforums.com/t/rom-official-paranoid-android-topaz-beta-xiaomi-12x-psyche.4649265/"
+          },
+          {
                "name": "13 / 13 Pro",
                "codename": "xiaomi13",
                "manufacturer": "Xiaomi",
