@@ -1,5 +1,24 @@
 {
   "updates": [
+      {
+      "date": "2024-01-05",
+      "datetime": "1704431090",
+      "filename": "aospa-uvite-beta-lmi-20240105.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-lmi-20240105.zip",
+      "recovery_sha256": "3e61042555edb422d4cdc922adffc76a59e20ccfc4f6edafddd7fa7452853129",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-lmi-20240105-image.zip",
+      "fastboot_sha256": "fe7c04211f05d3be288021bbdc07e25278251dfdcdf801deb0094be892a02682",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "2727079692",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2023-12-05",
+      "changelog_device": "First release. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+    },
     {
       "date": "2023-10-08",
       "datetime": "1696756254",
