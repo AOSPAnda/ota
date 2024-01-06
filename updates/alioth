@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-01-06",
+      "datetime": "1704566553",
+      "filename": "aospa-uvite-beta-alioth-20240106.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-alioth-20240106.zip",
+      "recovery_sha256": "5d8d062c9ddf663b0cba2ba475bd0b2a073f52a7856cfb60cf89baab21444f5c",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-alioth-20240106-image.zip",
+      "fastboot_sha256": "b7223a2cb362180999e7b2a399645329bd0c66c39f925971cd8c5b3f511fdb7b",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "2360142332",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2023-12-05",
+      "changelog_device": "First release. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+    },
+    {
       "date": "2023-10-10",
       "datetime": "1696951732",
       "filename": "aospa-topaz-6-alioth-20231010.zip",
