@@ -1,6 +1,25 @@
 {
   "updates":[
     {
+      "date": "2024-01-09",
+      "datetime": "1704773993",
+      "filename": "aospa-uvite-beta-porsche-20240109.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-porsche-20240109.zip",
+      "recovery_sha256": "1d319ba00c089f3408208288917d94ca7802b1f2ed6ee745a888a86bf19f441d",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "2384581220",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-01-05",
+      "changelog_device": "First official release. IMPORTANT: This build does not have OTA, so the next build will need to be flashed manually"
+    },
+    {
       "date": "2023-10-08",
       "datetime": "1696759966",
       "filename": "aospa-topaz-2-porsche-20231008.zip",
