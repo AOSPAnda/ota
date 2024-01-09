@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-01-08",
+      "datetime": "1704741253",
+      "filename": "aospa-uvite-beta-oneplus9-20240108.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-oneplus9-20240108.zip",
+      "recovery_sha256": "a057a8fc43153107956439974e4113e2c397316fec791082b2a3ec7afd4d8a1e",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-oneplus9-20240108-image.zip",
+      "fastboot_sha256": "04ac9c0861f13a141423950576da451e386eeb735abf9c64bc8c372ce3385f70",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "2188374062",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-01-05",
+      "changelog_device": "First official release. IMPORTANT: This build requires clean flash even if coming from Topaz. NOTE: This build does not have OTA, so the next build will need to be flashed manually"
+    },
+    {
       "date": "2023-08-14",
       "datetime": "1691933400",
       "filename": "aospa-topaz-3-oneplus9-20230813.zip",
