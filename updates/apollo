@@ -1,5 +1,24 @@
 {
   "updates": [
+{
+      "date": "2024-01-13",
+      "datetime": "1705123474",
+      "filename": "aospa-uvite-beta-apollo-20240113.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-apollo-20240113.zip",
+      "recovery_sha256": "c9956256f3cfc1d94f056b1b561907ae71412da2dddb573a3b6114d2d5c6e0d8",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-apollo-20240113-image.zip",
+      "fastboot_sha256": "2608d83b6e297bfdf7540ff0f881879d6009494dddb5df87d739301308bb3779",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "2516342342",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-01-05",
+      "changelog_device": "Initial A14 release"
+    },
     {
       "date": "2023-10-22",
       "datetime": "1697958630",
