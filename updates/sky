@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-01-21",
+      "datetime": "1705863684",
+      "filename": "aospa-uvite-beta-sky-20240121.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-sky-20240121.zip",
+      "recovery_sha256": "014d19275dba4c77a2eec4e8ee39c9845805b9c78024356dfb121f914c88ad73",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-sky-20240121-image.zip",
+      "fastboot_sha256": "5d3ff43a7027aacb85faa51c6436163a657255d5674bec995b6c7b6c3395281a",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-2",
+      "size": "1842049000",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-01-05",
+      "changelog_device": "Fixed offline charging animation, Improved haptics systemwide, Fixed APN not getting set at first boot, Updated blobs from Hyperos V816.0.5.0.UMWCNXM, Added touch firmware for new devices. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+    },
+    {
       "date": "2024-01-01",
       "datetime": "1704099057",
       "filename": "aospa-uvite-beta-sky-20240101.zip",
