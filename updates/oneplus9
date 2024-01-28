@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-01-27",
+      "datetime": "1706390583",
+      "filename": "aospa-uvite-beta-oneplus9-20240127.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-oneplus9-20240127.zip",
+      "recovery_sha256": "622739c4b5d8788cf6baed919ab84269b0a41047252449083b41b80b9e02fd71",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-oneplus9-20240127-image.zip",
+      "fastboot_sha256": "46f9facce254bf15f8f7548886b8a73356e543573203127122547a7b2521cab9",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-2",
+      "size": "2166709171",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-01-05",
+      "changelog_device": "Completely fixed network issues. Fixed crashdumps. Optimized for better battery. Fixed issues with Netflix. NOTE: This build does not have OTA, so the next build will need to be flashed manually"
+    },
+    {
       "date": "2024-01-08",
       "datetime": "1704741253",
       "filename": "aospa-uvite-beta-oneplus9-20240108.zip",
