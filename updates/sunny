@@ -1,5 +1,24 @@
 {
   "updates": [
+{
+      "date": "2024-01-27",
+      "datetime": "1706369014",
+      "filename": "aospa-uvite-beta-sunny-20240127.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-sunny-20240127.zip",
+      "recovery_sha256": "82b9bf2ba38d05f9d41d526fcab0281a082f227c5e2166245866dc96d095c700",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-sunny-20240127-image.zip",
+      "fastboot_sha256": "9e6d3e4ad2f6794cab41dc633f1a3f90d997074256176481e9877969adf75a9b",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "2209091238",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-01-05",
+      "changelog_device": "Initial A14 Beta Release, Switched to full IWLAN mode to fix WiFi, Moved to QTI BT as it is the standard BT implementation in CLO, Updated blobs from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0, Updated blobs from MIUI V14.0.8.0.SKGMIXM, Disabled phantom process monitoring, Spoofed props to /product aswell to match stock behavior, Show 4G icon for all carriers, Enabled LTE+ icon, Kernel state at r17a10"
+    },
     {
       "date": "2023-10-08",
       "datetime": "1696796736",
