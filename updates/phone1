@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-02-10",
+      "datetime": "1707415677",
+      "filename": "aospa-uvite-beta-phone1-20240208.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone1-20240208.zip",
+      "recovery_sha256": "cc0ff7c5be2769b505ce3fd3b0213fa6987cebf3b54f3098f4d63650ee856a0b",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone1-20240208-image.zip",
+      "fastboot_sha256": "72327590d82bb22b9d2fb0fe3606acd00b3636b33dabbaa60e889e2465442905",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-3",
+      "size": "2121367158",
+      "build_type": "Beta",
+      "version_code": "3",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-02-05",
+      "changelog_device": "Updated sources to Nothing OS 2.5.2, Moved volume panel to the left, Improved Stability. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+    },
+    {
       "date": "2024-01-21",
       "datetime": "1705466089",
       "filename": "aospa-uvite-beta-phone1-20240117.zip",
