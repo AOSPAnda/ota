@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-02-10",
+      "datetime": "1707580460",
+      "filename": "aospa-uvite-beta-spes-20240210.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-spes-20240210.zip",
+      "recovery_sha256": "2afe1d166663f0f98984dd734433c75bc977c62b366862e71c449dcb75f57680",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-spes-20240210-image.zip",
+      "fastboot_sha256": "e9e86db69ee80efe019d48c0ab8315e457229c407bcdc3e3902719a0b51fed5a",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "1972831932",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-02-05",
+      "changelog_device": "NOTE: Do a clean flash if you are coming from any version of Topaz. This build does not have OTA, so the next build will need to be flashed manually."
+    },
+    {
       "date": "2023-09-22",
       "datetime": "1695284808",
       "filename": "aospa-topaz-4-spes-20230921.zip",
