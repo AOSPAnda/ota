@@ -1,6 +1,24 @@
 {
   "updates": [
     {
+      "date": "2024-02-10",
+      "datetime": "1707540433",
+      "filename": "aospa-uvite-beta-munch-20240210.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-munch-20240210.zip",
+      "recovery_sha256": "b505844a236fb3d55c25dc63bfac27a9336833a559e94d67a5a5ac61e3b99137",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-munch-20240210-image.zip",
+      "fastboot_sha256": "74493aa78f0f34917cdedfc2c14cc560f1d9cc6ede3f030c341e4f695d521017",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-2",
+      "size": "2394734224",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-02-05",
+      "changelog_device": "NOTE: This build does not have OTA, so the next build will need to be flashed manually."                                                               },
+    {
       "date": "2024-01-06",
       "datetime": "1704569780",
       "filename": "aospa-uvite-beta-munch-20240106.zip",
@@ -17,7 +35,7 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2023-12-05",
-      "changelog_device": "First release. IMPORTANT: This build requires clean flash even if coming from Topaz. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+      "changelog_device": "NOTE: This build does not have OTA, so the next build will need to be flashed manually."
     },
     {
       "date": "2023-09-18",
