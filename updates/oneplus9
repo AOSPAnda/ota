@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-02-10",
+      "datetime": "1707552952",
+      "filename": "aospa-uvite-beta-oneplus9-20240210.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-oneplus9-20240210.zip",
+      "recovery_sha256": "3287a9572fcc36025ce6d6a4e506789be9e14f405f6a4e34359080e682379d08",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-oneplus9-20240210-image.zip",
+      "fastboot_sha256": "9f909809f25b76f8c5df196fb6d3bb2f95e0e9799dea9b5915d4da5ad86acec4",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-3",
+      "size": "2169647918",
+      "build_type": "Beta",
+      "version_code": "3",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-02-05",
+      "changelog_device": "Fixed bluetooth issues, Improved audio latency, Fixed volume control in VoIP calls, Improved Battery and Performance. NOTE: This build does not have OTA, so the next build will need to be flashed manually"
+    },
+    {
       "date": "2024-01-27",
       "datetime": "1706390583",
       "filename": "aospa-uvite-beta-oneplus9-20240127.zip",
