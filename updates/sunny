@@ -1,6 +1,25 @@
 {
   "updates": [
-{
+    {
+      "date": "2024-02-09",
+      "datetime": "1707513544",
+      "filename": "aospa-uvite-beta-sunny-20240209.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-sunny-20240209.zip",
+      "recovery_sha256": "b9b54b5b81b7593956d15f69ba3fed6b4ba0aad13e879a9b747951654f4575b8",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-sunny-20240209-image.zip",
+      "fastboot_sha256": "20b8b4d31d2528d00ebddd9291f3924d2841485fab6439e36596d9e1bdde619f",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-2",
+      "size": "2212127208",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-02-05",
+      "changelog_device": "Moved to QTI Health AIDL service, Brought back FM support, Moved back to LA.UM.9.1.r1-12900-SMxxx0.QSSI12.0 for GNSS blobs to fix GPS crashes, Dropped keymaster component as it breaks GPSU update, Imported keymaster and gatekeeper blobs from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0 (msmsteppe), Updated blobs from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0 (msmsteppe), Brought back IOP hidl entry"
+    },
+    {
       "date": "2024-01-27",
       "datetime": "1706369014",
       "filename": "aospa-uvite-beta-sunny-20240127.zip",
