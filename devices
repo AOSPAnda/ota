@@ -516,6 +516,20 @@
                "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-topaz-stable-redmi-7a-8-8a-8a-dual-mi439.4578293/"
           },
           {
+               "name": "7A (4.19)",
+               "codename": "mi439_419",
+               "manufacturer": "Redmi",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "jprimero15",
+                         "link": "https://forum.xda-developers.com/m/jprimero15.6561802/",
+                         "country": "PH"
+                    }
+               ],
+               "xda_thread": "https://xdaforums.com/t/rom-official-4-19-kernel-paranoid-android-uvite-redmi-7a-8-8a-8a-dual-mi439_419.4656885/"
+          },
+          {
                "name": "8",
                "codename": "mi439",
                "manufacturer": "Redmi",
@@ -528,6 +542,20 @@
                     }
                ],
                "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-topaz-stable-redmi-7a-8-8a-8a-dual-mi439.4578293/"
+          },
+          {
+               "name": "8 (4.19)",
+               "codename": "mi439_419",
+               "manufacturer": "Redmi",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "jprimero15",
+                         "link": "https://forum.xda-developers.com/m/jprimero15.6561802/",
+                         "country": "PH"
+                    }
+               ],
+               "xda_thread": "https://xdaforums.com/t/rom-official-4-19-kernel-paranoid-android-uvite-redmi-7a-8-8a-8a-dual-mi439_419.4656885/"
           },
           {
                "name": "8A",
@@ -544,6 +572,20 @@
                "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-topaz-stable-redmi-7a-8-8a-8a-dual-mi439.4578293/"
           },
           {
+               "name": "8A (4.19)",
+               "codename": "mi439_419",
+               "manufacturer": "Redmi",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "jprimero15",
+                         "link": "https://forum.xda-developers.com/m/jprimero15.6561802/",
+                         "country": "PH"
+                    }
+               ],
+               "xda_thread": "https://xdaforums.com/t/rom-official-4-19-kernel-paranoid-android-uvite-redmi-7a-8-8a-8a-dual-mi439_419.4656885/"
+          },
+          {
                "name": "8A Dual",
                "codename": "mi439",
                "manufacturer": "Redmi",
@@ -556,6 +598,20 @@
                     }
                ],
                "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-topaz-stable-redmi-7a-8-8a-8a-dual-mi439.4578293/"
+          },
+          {
+               "name": "8A Dual (4.19)",
+               "codename": "mi439_419",
+               "manufacturer": "Redmi",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "jprimero15",
+                         "link": "https://forum.xda-developers.com/m/jprimero15.6561802/",
+                         "country": "PH"
+                    }
+               ],
+               "xda_thread": "https://xdaforums.com/t/rom-official-4-19-kernel-paranoid-android-uvite-redmi-7a-8-8a-8a-dual-mi439_419.4656885/"
           },
           {
                "name": "9T",

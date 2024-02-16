@@ -1,0 +1,23 @@
+{
+  "updates": [
+    {
+      "date": "2024-02-14",
+      "datetime": "1707901482",
+      "filename": "aospa-uvite-beta-mi439-20240214.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-mi439_419-20240214.zip",
+      "recovery_sha256": "3a23fd2cd4f5abafbfd9a0d9899763b66b0ceceffeb663407da0a272c7a5e353",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "1912176723",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-02-05",
+      "changelog_device": "Updated to February SPL, Switched to 4.19 Kernel (Needs to switch to 4.19 kernel based recovery and format data (including internal storage)"
+    }
+  ]
+}
