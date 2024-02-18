@@ -1,6 +1,25 @@
 {
   "updates":[
     {
+      "date": "2024-02-18",
+      "datetime": "1708121533",
+      "filename": "aospa-uvite-beta-porsche-20240216.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-porsche-20240216.zip",
+      "recovery_sha256": "545cfa33fcdf3287c13461858d9b1a892c774a2d1cd1f1bdf2124795204981e6",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-porsche-20240216-image.zip",
+      "fastboot_sha256": "7aa6eab5f96d009a0f916a2109144ef418a43943b4ce3df8a9e723f4565066bf",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-2",
+      "size": "2388687879",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-02-05",
+      "changelog_device": "Improved Wi-Fi Stability. IMPORTANT: This build does not have OTA, so the next build will need to be flashed manually"
+    },
+    {
       "date": "2024-01-09",
       "datetime": "1704773993",
       "filename": "aospa-uvite-beta-porsche-20240109.zip",
