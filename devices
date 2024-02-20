@@ -137,6 +137,25 @@
                "xda_thread": "https://xdaforums.com/t/paranoid-android-uvite-nothing-phone-1.4648478/"
           },
           {
+               "name": "phone (2)",
+               "codename": "phone2",
+               "manufacturer": "Nothing",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "kunmun36",
+                         "link": "https://forum.xda-developers.com/m/kunmun36.12667599/",
+                         "country": "IN"
+                    },
+                    {
+                         "name": "gotenksIN",
+                         "link": "https://forum.xda-developers.com/m/omkartheandroid.5252623/",
+                         "country": "IN"
+                    }
+               ],
+               "xda_thread": "https://xdaforums.com/t/paranoid-android-uvite-nothing-phone-2.4657416/"
+          },
+          {
                "name": "5",
                "codename": "oneplus5",
                "manufacturer": "OnePlus",
