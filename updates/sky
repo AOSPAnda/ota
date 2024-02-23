@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-02-23",
+      "datetime": "1708627599",
+      "filename": "aospa-uvite-beta-sky-20240222.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-sky-20240222.zip",
+      "recovery_sha256": "b3d68cc24d62490c67f1fdeb1a08c2fa38a728018f930049e3a87f7ce54efb19",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-sky-20240222-image.zip",
+      "fastboot_sha256": "a9fe9b9b04211b07a346d5c8dcc1dc24b1bd00b8ab196196f2f709efd142a15d",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-3",
+      "size": "1843359579",
+      "build_type": "Beta",
+      "version_code": "3",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-02-05",
+      "changelog_device": "Added dirac & clear speaker, fixed up ram management issues, Sync brightness overlays from stock."
+    },
+    {
       "date": "2024-01-21",
       "datetime": "1705863684",
       "filename": "aospa-uvite-beta-sky-20240121.zip",
