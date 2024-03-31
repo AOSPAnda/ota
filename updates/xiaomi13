@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-04-01",
+      "datetime": "1712001600",
+      "filename": "aospa-uvite-beta-xiaomi13-20240401.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-xiaomi13-20240401.zip",
+      "recovery_sha256": "0dadd6d496ee66be9166b81d2f262212d4ca6b73567f335b8f967fb078f16d89",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-xiaomi13-20240401-image.zip",
+      "fastboot_sha256": "54183f97c64b2c27ff6702acaf4b69c1fbc9322a2f2da0e9e5970b3e8f185b38",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-4",
+      "size": "3886033225",
+      "build_type": "Beta",
+      "version_code": "4",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-03-05",
+      "changelog_device": "Fourth release. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+    },
+    {
       "date": "2024-02-08",
       "datetime": "1707422400",
       "filename": "aospa-uvite-beta-xiaomi13-20240208.zip",
