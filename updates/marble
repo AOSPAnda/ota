@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-03-30",
+      "datetime": "1711814785",
+      "filename": "aospa-uvite-beta-marble-20240330.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-marble-20240330.zip",
+      "recovery_sha256": "30aedf4667d716f5b6bbd44e74d1f762feffa73f28346bdba975734b4de1c691",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-marble-20240330-image.zip",
+      "fastboot_sha256": "9d5a653451605ce9d75c25100b42228f691b4e9827adbdc1dc2ae28aa55bb7fd",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-2",
+      "size": "2373220335",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-03-05",
+      "changelog_device": "March 2024 security patch, Improved UI performance, Fixed AOD on 0B panel, Fixed dolby profile resetting. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+    },
+    {
       "date": "2024-02-12",
       "datetime": "1707756116",
       "filename": "aospa-uvite-beta-marble-20240212.zip",
