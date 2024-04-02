@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-03-31",
+      "datetime": "1707415677",
+      "filename": "aospa-uvite-beta-phone1-20240331.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone1-20240331.zip",
+      "recovery_sha256": "f5b20dafd9c0861050e138180e22ec037be72c14a1a74f5fb07769354ca14077",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone1-20240331-image.zip",
+      "fastboot_sha256": "2b13c7d3ee0e14fc7355c0ee1c09a737017d6f34862cda34ed8bfbaf9ba6eac3",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-4",
+      "size": "2118912862",
+      "build_type": "Beta",
+      "version_code": "4",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-03-05",
+      "changelog_device": "Improve latency under WiFi 6, Fix updating AGPS database, Improved Stability. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+    },
+    {
       "date": "2024-02-10",
       "datetime": "1707415677",
       "filename": "aospa-uvite-beta-phone1-20240208.zip",
