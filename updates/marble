@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-04-01",
+      "datetime": "1711959357",
+      "filename": "aospa-uvite-beta-marble-20240401.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-marble-20240401.zip",
+      "recovery_sha256": "876ee750991f006d3b1e31bc4ddde56c2b8cb1552196db8fa9ba421dbcf77c17",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-marble-20240401-image.zip",
+      "fastboot_sha256": "17d0026c2f87dc202db298b4597faf56482b9e57bbfcd33f45bfde88e640b1e7",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-2.1",
+      "size": "2373230759",
+      "build_type": "Beta",
+      "version_code": "2.1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-03-05",
+      "changelog_device": "Fixed crash when expanding volume dialog in landscape mode, Misc performance improvements. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+    },
+    {
       "date": "2024-03-30",
       "datetime": "1711814785",
       "filename": "aospa-uvite-beta-marble-20240330.zip",
