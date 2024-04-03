@@ -1,6 +1,24 @@
 {
   "updates": [
     {
+      "date": "2024-04-02",
+      "datetime": "1710451285",
+      "filename": "aospa-uvite-beta-oneplus9-20240210.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-oneplus9-20240402.zip",
+      "recovery_sha256": "b508b2dd8e9597231b3c1ee4a5538405af6da37b04fdc538b7bbdf3e3cccc3ca",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-oneplus9-20240402-image.zip",
+      "fastboot_sha256": "f0b69b02490aa4e8a858b347f52018f36f42d1efc5d16a1adb22abe4593bc5a5",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-4",
+      "size": "2516029597",
+      "build_type": "Beta",
+      "version_code": "4",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-03-05",
+      "changelog_device": "Update vendor/odm blobs to latest OOS drop, Properly enable FUSE, Fixed crashes with filter in OPLUS Camera, Addressed sepolicy denials, Fixed random dolby crashes, Moved to EROFS, Better bass when dolby is on, Kill volume leveler in dolby settings, UDFPS Color is set to white, Improve device padding, Enable burn-in protection, Better idle drain when pocket mode is on, Completely fixed audio lags, Added support for Multi-gen LRU in kernel, Enabled UFS Host performance booster, Slightly better haptics, Better thermal management, AoD improvements."},
+    {
       "date": "2024-02-10",
       "datetime": "1707552952",
       "filename": "aospa-uvite-beta-oneplus9-20240210.zip",
