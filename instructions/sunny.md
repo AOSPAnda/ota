@@ -52,11 +52,12 @@ fastboot flash xbl_config_b xbl_config.img
 1. Click on the Recovery Option to download the Recovery ROM of AOSPA.
 2. Download the recovery zip from [here](https://drive.google.com/file/d/1NjU0L4q-O5jvWR-Qu3Mw5YyLdssSz7R6/view?usp=sharing).
 3. Execute this command: `fastboot update recovery-AOSPA-*.zip`
-4. Reboot to recovery via `fastboot reboot recovery`.
-5. Select Wipe data/factory reset & confirm.
-6. Go back and select Apply Update from ADB.
-7. Execute this command: `adb sideload aospa-*sunny*.zip`
-8. After the installation is completed, reboot to system via `adb reboot`.
+4. Ignore `fastboot: error: could not load ’system.img’: No such file or directory`
+5. Reboot to recovery via `fastboot reboot recovery`.
+6. Select Wipe data/factory reset & confirm.
+7. Go back and select Apply Update from ADB.
+8. Execute this command: `adb sideload aospa-*sunny*.zip`
+9. After the installation is completed, reboot to system via `adb reboot`.
 
 
 ## Requirements
