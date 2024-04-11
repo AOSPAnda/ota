@@ -17,7 +17,7 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2024-02-05",
-      "changelog_device": "NOTE: Do a clean flash if you are coming from any version of Topaz. This build does not have OTA, so the next build will need to be flashed manually."
+      "changelog_device": ""
     },
     {
       "date": "2023-09-22",

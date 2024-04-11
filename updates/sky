@@ -36,7 +36,7 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2024-01-05",
-      "changelog_device": "Fixed offline charging animation, Improved haptics systemwide, Fixed APN not getting set at first boot, Updated blobs from Hyperos V816.0.5.0.UMWCNXM, Added touch firmware for new devices. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+      "changelog_device": "Fixed offline charging animation, Improved haptics systemwide, Fixed APN not getting set at first boot, Updated blobs from Hyperos V816.0.5.0.UMWCNXM, Added touch firmware for new devices"
     },
     {
       "date": "2024-01-01",
@@ -55,7 +55,7 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2023-12-05",
-      "changelog_device": "First release. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+      "changelog_device": "First beta release"
     }
   ]
 }

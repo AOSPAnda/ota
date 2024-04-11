@@ -17,7 +17,7 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2024-02-05",
-      "changelog_device": "NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+      "changelog_device": ""
     },
     {
       "date": "2024-01-05",
@@ -36,7 +36,7 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2023-12-05",
-      "changelog_device": "First release. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+      "changelog_device": "First beta release"
     },
     {
       "date": "2023-10-08",

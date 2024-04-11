@@ -17,7 +17,7 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2024-03-05",
-      "changelog_device": "Update vendor/odm blobs to latest OOS drop, Properly enable FUSE, Fixed crashes with filter in OPLUS Camera, Addressed sepolicy denials, Fixed random dolby crashes, Moved to EROFS, Better bass when dolby is on, Kill volume leveler in dolby settings, UDFPS Color is set to white, Improve device padding, Enable burn-in protection, Better idle drain when pocket mode is on, Completely fixed audio lags, Added support for Multi-gen LRU in kernel, Enabled UFS Host performance booster, Slightly better haptics, Better thermal management, AoD improvements."},
+      "changelog_device": "Update vendor/odm blobs to latest OOS drop, Properly enable FUSE, Fixed crashes with filter in OPLUS Camera, Addressed sepolicy denials, Fixed random dolby crashes, Moved to EROFS, Better bass when dolby is on, Kill volume leveler in dolby settings, UDFPS Color is set to white, Improve device padding, Enable burn-in protection, Better idle drain when pocket mode is on, Completely fixed audio lags, Added support for Multi-gen LRU in kernel, Enabled UFS Host performance booster, Slightly better haptics, Better thermal management, AoD improvements"},
     {
       "date": "2024-02-10",
       "datetime": "1707552952",
@@ -35,7 +35,7 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2024-02-05",
-      "changelog_device": "Fixed bluetooth issues, Improved audio latency, Fixed volume control in VoIP calls, Improved Battery and Performance. NOTE: This build does not have OTA, so the next build will need to be flashed manually"
+      "changelog_device": "Fixed bluetooth issues, Improved audio latency, Fixed volume control in VoIP calls, Improved battery and performance"
     },
     {
       "date": "2024-01-27",
@@ -54,7 +54,7 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2024-01-05",
-      "changelog_device": "Completely fixed network issues. Fixed crashdumps. Optimized for better battery. Fixed issues with Netflix. NOTE: This build does not have OTA, so the next build will need to be flashed manually"
+      "changelog_device": "Completely fixed network issues. Fixed crashdumps. Optimized for better battery. Fixed issues with Netflix"
     },
     {
       "date": "2024-01-08",
@@ -73,7 +73,7 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2024-01-05",
-      "changelog_device": "First official release. IMPORTANT: This build requires clean flash even if coming from Topaz. NOTE: This build does not have OTA, so the next build will need to be flashed manually"
+      "changelog_device": "First beta release"
     },
     {
       "date": "2023-08-14",

@@ -17,7 +17,7 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2024-03-05",
-      "changelog_device": "Fixed crash when expanding volume dialog in landscape mode, Misc performance improvements. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+      "changelog_device": "Fixed crash when expanding volume dialog in landscape mode, Misc performance improvements"
     },
     {
       "date": "2024-03-30",
@@ -36,7 +36,7 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2024-03-05",
-      "changelog_device": "March 2024 security patch, Improved UI performance, Fixed AOD on 0B panel, Fixed dolby profile resetting. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+      "changelog_device": "March 2024 security patch, Improved UI performance, Fixed AOD on 0B panel, Fixed dolby profile resetting"
     },
     {
       "date": "2024-02-12",
@@ -55,7 +55,7 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2024-02-05",
-      "changelog_device": "First release. NOTE: This build does not have OTA, so the next build will need to be flashed manually."
+      "changelog_device": "First beta release"
     },
     {
       "date": "2023-10-10",
