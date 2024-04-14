@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-04-12",
+      "datetime": "1712942126",
+      "filename": "aospa-uvite-beta-sunny-20240412.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-sunny-20240412.zip",
+      "recovery_sha256": "481a88a00cbc022bf4ad566a77bfcfb91ffc7fa5151aba95a0bfa44fad3aa9d8",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-sunny-20240412-image.zip",
+      "fastboot_sha256": "67ff99535fcddfc5f3c4f76278f2bafc7f2c4560f5309435068d4b78651e2ef0",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-3",
+      "size": "2199831206",
+      "build_type": "Beta",
+      "version_code": "3",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-04-05",
+      "changelog_device": "Imported QCC vendor stack from LA.UM.9.1.r1-12900-SMxxx0.0, Used HintManager for HWUI to reduce CPU load, Switched to new AIDL IR service, Kernel state at r17b4."
+    },
+    {
       "date": "2024-02-09",
       "datetime": "1707513544",
       "filename": "aospa-uvite-beta-sunny-20240209.zip",
