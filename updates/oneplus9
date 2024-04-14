@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-04-12",
+      "datetime": "1712897690",
+      "filename": "aospa-uvite-beta-oneplus9-20240412.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-oneplus9-20240412.zip",
+      "recovery_sha256": "ebe4ca9f9a201fd531b7b16087ebb3eba2d2af89e74dde5163e320830f6e3dc3  ",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-oneplus9-20240412-image.zip",
+      "fastboot_sha256": "a2e88184b44510ce4b5d7e9d25d77a34cecf3716871ad27566037de78de96908  ",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-5",
+      "size": "2516033915",
+      "build_type": "Beta",
+      "version_code": "5",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-04-05",
+      "changelog_device": "Fixed fingerprint issues, Fixed Audio lags (again), Fixed excessive app kills"
+    },
+    {
       "date": "2024-04-02",
       "datetime": "1710451285",
       "filename": "aospa-uvite-beta-oneplus9-20240210.zip",
@@ -17,7 +36,8 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2024-03-05",
-      "changelog_device": "Update vendor/odm blobs to latest OOS drop, Properly enable FUSE, Fixed crashes with filter in OPLUS Camera, Addressed sepolicy denials, Fixed random dolby crashes, Moved to EROFS, Better bass when dolby is on, Kill volume leveler in dolby settings, UDFPS Color is set to white, Improve device padding, Enable burn-in protection, Better idle drain when pocket mode is on, Completely fixed audio lags, Added support for Multi-gen LRU in kernel, Enabled UFS Host performance booster, Slightly better haptics, Better thermal management, AoD improvements"},
+      "changelog_device": "Update vendor/odm blobs to latest OOS drop, Properly enable FUSE, Fixed crashes with filter in OPLUS Camera, Addressed sepolicy denials, Fixed random dolby crashes, Moved to EROFS, Better bass when dolby is on, Kill volume leveler in dolby settings, UDFPS Color is set to white, Improve device padding, Enable burn-in protection, Better idle drain when pocket mode is on, Completely fixed audio lags, Added support for Multi-gen LRU in kernel, Enabled UFS Host performance booster, Slightly better haptics, Better thermal management, AoD improvements"
+    },
     {
       "date": "2024-02-10",
       "datetime": "1707552952",
