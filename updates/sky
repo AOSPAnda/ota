@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-04-13",
+      "datetime": "1713000651",
+      "filename": "aospa-uvite-beta-sky-20240413.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-sky-20240413.zip",
+      "recovery_sha256": "24792105982df697ddf65235b7c20feb0d0afa37cbb4c9f622b6d16f3651b6c7",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-sky-20240413-image.zip",
+      "fastboot_sha256": "426d7cf49253003d7e86323b36d9b0717fd942486869819a95654229d7ba7925",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-4",
+      "size": "1833572274",
+      "build_type": "Beta",
+      "version_code": "4",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-04-05",
+      "changelog_device": "Fixed night light, Added FM, Bring in QCC vendor stack, fixed fastboot flashing in river variants"
+    },
+    {
       "date": "2024-02-23",
       "datetime": "1708627599",
       "filename": "aospa-uvite-beta-sky-20240222.zip",
