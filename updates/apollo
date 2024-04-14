@@ -1,6 +1,25 @@
 {
   "updates": [
-{
+    {
+      "date": "2024-04-13",
+      "datetime": "1712986718",
+      "filename": "aospa-uvite-beta-apollo-20240413.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-apollo-20240413.zip",
+      "recovery_sha256": "143ae8d262ba17b7952d48e17c42875d60ae63e0fb0c625d940dbf6347c0ebb0",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-apollo-20240413-image.zip",
+      "fastboot_sha256": "b2e9d09349f77c18c56e2394893800bd79a1239a827330c23f6ec8201cbc2279",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-2",
+      "size": "2503058834",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-04-05",
+      "changelog_device": "Updated to April SPL, Updated Carrier Config, Switch to vendor-defined color modes, Remove IOP HAL manifest entry"
+    },
+    {
       "date": "2024-01-13",
       "datetime": "1705123474",
       "filename": "aospa-uvite-beta-apollo-20240113.zip",
