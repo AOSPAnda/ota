@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-04-14",
+      "datetime": "1713078921",
+      "filename": "aospa-uvite-beta-phone2-20240414-image.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone2-20240414.zip",
+      "recovery_sha256": "1094f148579c6e8fa7411f8ce745f95d04feebfec09ff288df5769c4d2543899",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone2-20240414-image.zip",
+      "fastboot_sha256": "e81c8be393b7ff2c393140cc9cc2982bbe28cf4adeb1bdbc104a18a6f6249dcb",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-2",
+      "size": "2396233888",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-04-05",
+      "changelog_device": "Updated blobs and firmware to 2.5.3A, Integrated the April 2024 security patch., Fingerprint sensor is way snappier now., Upstreamed kernel to latest CLO and ACK tags., Battery backup is improved by a lot., Certain improvements are done to the glyph interface., Improved statusbar and rounded corner paddings."
+    },
+    {
       "date": "2024-02-20",
       "datetime": "1708404087",
       "filename": "aospa-uvite-beta-phone2-20240220.zip",
