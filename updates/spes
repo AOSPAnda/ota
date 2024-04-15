@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-04-12",
+      "datetime": "1712947960",
+      "filename": "aospa-uvite-beta-spes-20240412.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-spes-20240412.zip",
+      "recovery_sha256": "e0f2ab745b758c88b614305b026cdbe423ef9325b5ee8ce6989357d49833e8e1",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-spes-20240412-image.zip",
+      "fastboot_sha256": "bc336acd656a48d271d95115c3e4bfa8b5f74e6822bcbda14b9be3ade984f60a",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-2",
+      "size": "1955028809",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-04-05",
+      "changelog_device": "Updated vendor blobs to LA.UM.9.15.2.r1-09600-KAMORTA.QSSI14.0, Increased notification icons on AOD screen, Enabled pocket mode"
+    },
+    {
       "date": "2024-02-10",
       "datetime": "1707580460",
       "filename": "aospa-uvite-beta-spes-20240210.zip",
