@@ -2,6 +2,25 @@
   "updates": [
     {
       "date": "2024-02-12",
+      "datetime": "1712912320",
+      "filename": "aospa-uvite-beta-surya-20240412.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-surya-20240412.zip",
+      "recovery_sha256": "3d5a6366cbf9a751c95ded8989147801c89e2acabcfe136a6727d8afc231d129",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-surya-20240412-image.zip",
+      "fastboot_sha256": "196e4eb250e5f9adaa2bd61ba789dd836cdc3e52875d3197d0a02b4163d96303",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "2546968364",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-04-05",
+      "changelog_device": "Minor performance and battery improvements"
+    },
+    {
+      "date": "2024-02-12",
       "datetime": "1707666158",
       "filename": "aospa-uvite-beta-surya-20240211.zip",
       "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-surya-20240211.zip",
