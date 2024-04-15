@@ -1,18 +1,17 @@
-# Instructions thread for QRD SM72xx (lito) On AOSPA
-
 ## Firmware
+
 [Download Android 11 or Android 12 BSP lnxbuild](https://t.me/Edward_ROMs/138)
 
 - If you get hard brick, you can use Android 11 lnxbuild EDL firmware to unbrick.
 - Install Android 12 lnxbuild as firmware.
 
 ## First time install AOSPA
-:::danger
-I will recommand use "Fastboot installation" to install Our ROM.
-Because Qualcomm Reference Devices slot b are always be empty when you using lnxbuild.
-:::
 
-1. Downalod AOSPA images ROM on Our website.
+#### WARNING
+I will recommand use "Fastboot installation" to install Paranoid Android.
+because Qualcomm Reference Devices slot b are always be empty when you using lnxbuild.
+
+1. Download AOSPA images ROM on Our website.
 2. Open terminal / cmd / powershell ...etc on your PC.
 3. Place fastboot platform tools in same folder.
 4. Reboot to bootloader via `adb reboot bootloader` (if you're not already in it).
