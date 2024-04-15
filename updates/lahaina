@@ -1,0 +1,23 @@
+{
+  "updates": [
+    {
+      "date": "2024-04-12",
+      "datetime": "1712924659",
+      "filename": "aospa-uvite-beta-lahaina-20240412.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-lahaina-20240412.zip",
+      "recovery_sha256": "33f13e166607e4ecd07f5616e5e567a042412733c761d79e63ff411cfadbc214",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-lahaina-20240412-image.zip",
+      "fastboot_sha256": "b69900f39d1bd253556c6c925abc4912dc3c46b258918a0ab9c149fd518430e0",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "1714817400",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-04-05",
+      "changelog_device": "Update to April 2024 ASB, Minor improvements to performance and system stability"
+    }
+   ]
+}

@@ -1027,6 +1027,34 @@
                     }
                ],
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-mix-3.4400743/"
+          },
+          {
+               "name": "QRD SM72xx",
+               "codename": "lito",
+               "manufacturer": "Qualcomm",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "EdwardWu",
+                         "link": "https://xdaforums.com/m/edwardwu6688.9280256/",
+                         "country": "TW"
+                    }
+               ],
+               "xda_thread": ""
+          },
+          {
+               "name": "QRD SM8350",
+               "codename": "lahaina",
+               "manufacturer": "Qualcomm",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "EdwardWu",
+                         "link": "https://xdaforums.com/m/edwardwu6688.9280256/",
+                         "country": "TW"
+                    }
+               ],
+               "xda_thread": ""
           }
      ]
 }
