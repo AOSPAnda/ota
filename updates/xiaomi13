@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-04-16",
+      "datetime": "1713297600",
+      "filename": "aospa-uvite-beta-xiaomi13-20240416.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-xiaomi13-20240416.zip",
+      "recovery_sha256": "7a439ca53bbccb10b7a6499a7a3eee34688958aee784b14954ca2c4df93259f2",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-xiaomi13-20240416-image.zip",
+      "fastboot_sha256": "98e4315d7a362e6cc35fccbb787f4d90ef1b3d70fa2ffefb2bcb8b7b26bec9de",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-5.1",
+      "size": "3865292071",
+      "build_type": "Beta",
+      "version_code": "5.1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-04-05",
+      "changelog_device": ""
+    },
+    {
       "date": "2024-04-13",
       "datetime": "1713038400",
       "filename": "aospa-uvite-beta-xiaomi13-20240413.zip",
