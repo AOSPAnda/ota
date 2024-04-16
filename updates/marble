@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-04-16",
+      "datetime": "1713248707",
+      "filename": "aospa-uvite-beta-marble-20240416.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-marble-20240416.zip",
+      "recovery_sha256": "ed6ff64052f4892f00cc405fee6a4219d5a7d4ff693468bb995d266f766bd2c0",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-marble-20240416-image.zip",
+      "fastboot_sha256": "696674d89c7e99827f7c763d54eaec1a727e78c3717d64ee0c281be7dfe708b4",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-3",
+      "size": "2375331510",
+      "build_type": "Beta",
+      "version_code": "3",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-04-05",
+      "changelog_device": ""
+    },
+    {
       "date": "2024-04-01",
       "datetime": "1711959357",
       "filename": "aospa-uvite-beta-marble-20240401.zip",
