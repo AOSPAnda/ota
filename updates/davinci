@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-04-15",
+      "datetime": "1713180650",
+      "filename": "aospa-uvite-beta-davinci-20240415.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-davinci-20240415.zip",
+      "recovery_sha256": "ccde0a1858ded181adcbd2ffd672be7897bc33c8fab3c5572724c0add2463a07",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-davinci-20240415-image.zip",
+      "fastboot_sha256": "9b0d509262c1f5049ebaa229e7d276899562fff17ba2012838a7f6def1777020",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "2193829242",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-04-05",
+      "changelog_device": "Set 240Hz touch sampling on boot, improve performance, fix miscellaneous bugs"
+    },
+    {
       "date": "2023-07-25",
       "datetime": "1690243200",
       "filename": "aospa-topaz-2-davinci-20230725.zip",
