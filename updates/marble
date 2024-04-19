@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-04-18",
+      "datetime": "1713450033",
+      "filename": "aospa-uvite-beta-marble-20240418.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-marble-20240418.zip",
+      "recovery_sha256": "7e91f6e31115aebef21c6b933b6fc8ba7aa302dbf5424692c78804a237ef2ef8  ",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-marble-20240418-image.zip",
+      "fastboot_sha256": "3110399a8c9eef381aa685c6a46c948d6eb1016ec936f3959815cf485caab5b0  ",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-3.1",
+      "size": "2380750333",
+      "build_type": "Beta",
+      "version_code": "3.1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-04-05",
+      "changelog_device": "Fixed fast charging and dolby vision"
+    },
+    {
       "date": "2024-04-16",
       "datetime": "1713248707",
       "filename": "aospa-uvite-beta-marble-20240416.zip",
