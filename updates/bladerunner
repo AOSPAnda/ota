@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-04-21",
+      "datetime": "1713692852",
+      "filename": "aospa-uvite-beta-bladerunner-20240421.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-bladerunner-20240421.zip",
+      "recovery_sha256": "a8a66ddff7c3bc90e80a271f84875552e68c5bb730aee2b8266607726c5dd953",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-bladerunner-20240421-image.zip",
+      "fastboot_sha256": "42c66a18a8a49f215b080061e0e4a84c8e740907f1a42b56626c9af0137d6b32",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "2913430080",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-04-05",
+      "changelog_device": "Added support for Dolby Atmos, Hotword Enrollment and OZO Audio, Enabled SecureNFC feature, Enabled various recommended features over userdata (Need to switch to the latest TWRP recovery and proceed to format data), Fixed color mode settings, Fixed UDFPS random flashbang, Merged April 2024 ASB patch into kernel, Miscellaneous improvements over performance and stability, Updated common blobs to RMX3370_13.1.0.801(EX01), Updated device blobs to RMX2076_11_F.17, Updated NFC firmware"
+    },
+    {
       "date": "2023-08-20",
       "datetime": "1692555627",
       "filename": "aospa-topaz-2-bladerunner-20230820.zip",

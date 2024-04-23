@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-04-21",
+      "datetime": "1713687731",
+      "filename": "aospa-uvite-beta-bitra-20240421.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-bitra-20240421.zip",
+      "recovery_sha256": "4e408e3e3bc121e0988dcf96e3963f43ae52ea3a7e6c20bd7833672daeab5fc9",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-bitra-20240421-image.zip",
+      "fastboot_sha256": "2cc77c6b374dd85526c2a8ac167edacb43bb39f3965b995bde1e0722ea80a2d3",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "2922862228",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-04-05",
+      "changelog_device": "Added support for Dolby Atmos and Hotword Enrollment, Enabled various recommended features over userdata (Need to switch to a recovery that has casefolding support and proceed to format data), Fixed color mode settings, Fixed UDFPS random flashbang, Merged April 2024 ASB patch into kernel, Miscellaneous improvements over performance and stability, Updated all blobs to RMX3370_13.1.0.801(EX01)"
+    },
+    {
       "date": "2023-09-23",
       "datetime": "1695146518",
       "filename": "aospa-topaz-4-bitra-20230919.zip",
