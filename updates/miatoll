@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-04-25",
+      "datetime": "1713961767",
+      "filename": "aospa-uvite-beta-miatoll-20240424.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-miatoll-20240424.zip",
+      "recovery_sha256": "ea39bac638dd7ed3a98d2a926bf1caaab6e3ec7a3d24feea3b37b67a107621b2",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-miatoll-20240424-image.zip",
+      "fastboot_sha256": "2a049060b01318ed9c1d210754f79972b06f5384e9162123206ad29622def8c8",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "2379344560",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-04-05",
+      "changelog_device": "- Initial Official Android 14 (uvite) release, misc under the hood changes"
+    },
+    {
       "date": "2023-09-20",
       "datetime": "1695235404",
       "filename": "aospa-topaz-4-miatoll-20230920.zip",
