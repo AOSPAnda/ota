@@ -903,6 +903,20 @@
                "xda_thread": "https://xdaforums.com/t/paranoid-android-uvite-xiaomi-13-pro.4648715/"
           },
           {
+               "name": "13 Ultra",
+               "codename": "ishtar",
+               "manufacturer": "Xiaomi",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "33bca",
+                         "link": "https://forum.xda-developers.com/m/33bca.5296790/",
+                         "country": "CH"
+                    }
+               ],
+               "xda_thread": "https://xdaforums.com/t/paranoid-android-uvite-xiaomi-13-ultra.4674033/"
+          },
+          {
                "name": "Mi 8",
                "codename": "dipper",
                "manufacturer": "Xiaomi",
