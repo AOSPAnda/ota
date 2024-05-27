@@ -875,8 +875,8 @@
                "xda_thread": "https://xdaforums.com/t/rom-official-paranoid-android-topaz-beta-xiaomi-12x-psyche.4649265/"
           },
           {
-               "name": "13 / 13 Pro",
-               "codename": "xiaomi13",
+               "name": "13",
+               "codename": "fuxi",
                "manufacturer": "Xiaomi",
                "active": true,
                "maintainers": [
@@ -886,7 +886,21 @@
                          "country": "CH"
                     }
                ],
-               "xda_thread": "https://xdaforums.com/t/paranoid-android-uvite-xiaomi-13-pro.4630549/"
+               "xda_thread": "https://xdaforums.com/t/paranoid-android-uvite-xiaomi-13.4630549/"
+          },
+          {
+               "name": "13 Pro",
+               "codename": "nuwa",
+               "manufacturer": "Xiaomi",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "33bca",
+                         "link": "https://forum.xda-developers.com/m/33bca.5296790/",
+                         "country": "CH"
+                    }
+               ],
+               "xda_thread": "https://xdaforums.com/t/paranoid-android-uvite-xiaomi-13-pro.4648715/"
           },
           {
                "name": "Mi 8",
