@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-05-30",
+      "datetime": "1717067908",
+      "filename": "aospa-uvite-beta-sunny-20240530.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-sunny-20240530.zip",
+      "recovery_sha256": "a7e1cb5dc5b603cc4d40e8c99756f319f4ae55099c3d4548367d7bed2b42d63a",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-sunny-20240530-image.zip",
+      "fastboot_sha256": "3572fa8d146452f9936a4ed7eb0d53d0684d7e5e49bc5d5ef8211f5ff995af1f",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-4",
+      "size": "2208161379",
+      "build_type": "Beta",
+      "version_code": "4",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-05-05",
+      "changelog_device": "Switched to AIDL MultiHal service."
+    },
+    {
       "date": "2024-04-12",
       "datetime": "1712942126",
       "filename": "aospa-uvite-beta-sunny-20240412.zip",
