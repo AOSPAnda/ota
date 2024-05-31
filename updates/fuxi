@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-05-31",
+      "datetime": "1717149600",
+      "filename": "aospa-uvite-beta-fuxi-20240530.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-fuxi-20240530.zip",
+      "recovery_sha256": "ecde4df252d2c12da2365e48c32584fee9bb15c8b037764c364cfaa2a7595204",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-fuxi-20240530-image.zip",
+      "fastboot_sha256": "fb6b77795153bfd61a125bda1e4740c7cbef0587843bb9e49c34085bec94a3dc",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-6.1",
+      "size": "3152439393",
+      "build_type": "Beta",
+      "version_code": "6.1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-05-05",
+      "changelog_device": ""
+    },
+    {
       "date": "2024-05-29",
       "datetime": "1716984000",
       "filename": "aospa-uvite-beta-fuxi-20240528.zip",
