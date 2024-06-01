@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-05-31",
+      "datetime": "1717147666",
+      "filename": "aospa-uvite-beta-alioth-20240531.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-alioth-20240531.zip",
+      "recovery_sha256": "f50dab68ea12040276ec510aed31886942f90573a66fbc2301d50440315910b7",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-alioth-20240531-image.zip",
+      "fastboot_sha256": "c7cd9d2497f3be6c1d47c5d8a6d8b105b8b63798c4cd6c1b39020b9269eaf991",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-4",
+      "size": "2362835555",
+      "build_type": "Beta",
+      "version_code": "4",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-05-05",
+      "changelog_device": "Disabled light sensor usage on pocket mode, Minor fixes and improvements"
+    },
+    {
       "date": "2024-04-27",
       "datetime": "1714227125",
       "filename": "aospa-uvite-beta-alioth-20240427.zip",
