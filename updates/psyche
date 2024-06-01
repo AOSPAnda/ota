@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-05-31",
+      "datetime": "1717163303",
+      "filename": "aospa-uvite-beta-psyche-20240531.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-psyche-20240531.zip",
+      "recovery_sha256": "33f8d5b6c5b08e3c39fcafc9cbc2a96d0ddcb2c2c63e012715649922227c46e7",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-psyche-20240531-image.zip",
+      "fastboot_sha256": "b9a4596c7daf70294e988b04c1776d1eb0b3de506b39bcaf3bffa45257edef1e",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-4",
+      "size": "2401313444",
+      "build_type": "Beta",
+      "version_code": "4",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-05-05",
+      "changelog_device": "Reworked OIS implementation to support OIS+EIS, Disabled light sensor usage on pocket mode, Minor fixes and improvements"
+    },
+    {
       "date": "2024-04-13",
       "datetime": "1712982678",
       "filename": "aospa-uvite-beta-psyche-20240413.zip",
