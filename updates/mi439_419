@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-05-30",
+      "datetime": "1717061179",
+      "filename": "aospa-uvite-beta-mi439_419-20240530.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-mi439_419-20240530.zip",
+      "recovery_sha256": "d1994128005d43bba766632b0cd076583135a34b23b8ef66305408daad24ae7b",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-4",
+      "size": "1903665479",
+      "build_type": "Beta",
+      "version_code": "4",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-05-05",
+      "changelog_device": "Updated to May SPL"
+    },
+    {
       "date": "2024-04-13",
       "datetime": "1712978617",
       "filename": "aospa-uvite-beta-mi439_419-20240413.zip",
