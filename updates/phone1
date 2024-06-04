@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-06-01",
+      "datetime": "1707415677",
+      "filename": "aospa-uvite-beta-phone1-20240601.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone1-20240601.zip",
+      "recovery_sha256": "32b151fb5d3db04e87b2686442b72b72deaf07e013b1dc39adc2a75298994aea",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone1-20240601-image.zip",
+      "fastboot_sha256": "bb85c24d700d755ff161f70b6c9686f68aff1d67d1d8c7443a8a84c2f61614b0",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-6",
+      "size": "2127500598",
+      "build_type": "Beta",
+      "version_code": "6",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-05-05",
+      "changelog_device": "Updated blobs and firmware to 2.5.5, Improved stability and system performance"
+    },
+    {
       "date": "2024-04-11",
       "datetime": "1707415677",
       "filename": "aospa-uvite-beta-phone1-20240411.zip",
