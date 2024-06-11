@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-06-17",
+      "datetime": "1718615573",
+      "filename": "aospa-uvite-beta-spes-20240617.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-spes-20240617.zip",
+      "recovery_sha256": "a8f7af698eeb4bbc007fb374b4b428340b04ab6415443ba756ba6d4cc6aca274",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-spes-20240617-image.zip",
+      "fastboot_sha256": "8f98f49bde257680696885b7970e8a2c2e002ee77e5298387d7dd71e29acaf73",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-3",
+      "size": "1962726437",
+      "build_type": "Beta",
+      "version_code": "3",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-06-05",
+      "changelog_device": "Updated vendor blobs to LA.UM.9.15.2.r1-09800-KAMORTA.QSSI14.0, Use full kernel llvm,  use libbatterylistener from LA.UM.9.15.2.r1-09800-KAMORTA.QSSI14.0"
+    },
+    {
       "date": "2024-04-12",
       "datetime": "1712947960",
       "filename": "aospa-uvite-beta-spes-20240412.zip",
