@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-06-14",
+      "datetime": "1718352000",
+      "filename": "aospa-uvite-beta-nuwa-20240613.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-nuwa-20240613.zip",
+      "recovery_sha256": "2d354187535300fc02aabdf43fa1021b1926fad85434e9b8e8748a056a7afc51",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-nuwa-20240613-image.zip",
+      "fastboot_sha256": "f3675c2aa63a6f56a1c77bb066db6e009b871207ea969bd48dd5d7d5af2977ab",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-7",
+      "size": "3187652706",
+      "build_type": "Beta",
+      "version_code": "7",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-06-05",
+      "changelog_device": ""
+    },
+    {
       "date": "2024-05-31",
       "datetime": "1717149600",
       "filename": "aospa-uvite-beta-nuwa-20240531.zip",
