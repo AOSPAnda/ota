@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-06-17",
+      "datetime": "1718635596",
+      "filename": "aospa-uvite-beta-phone1-20240617.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone1-20240617.zip",
+      "recovery_sha256": "62297fea9610c72a81975e7b7c06d7b35206e179fb5a261338d46ca1a5a28751",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone1-20240617-image.zip",
+      "fastboot_sha256": "39e9dbfee49772e2846d4b33ef319ec05d9bbd0dfd787b30b1a2d4e609ae9535",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-7",
+      "size": "2136608489",
+      "build_type": "Beta",
+      "version_code": "7",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-06-05",
+      "changelog_device": "Switch to Stock Radio Stack, Improved stability and system performance"
+    },
+    {
       "date": "2024-06-01",
       "datetime": "1707415677",
       "filename": "aospa-uvite-beta-phone1-20240601.zip",
