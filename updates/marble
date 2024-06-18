@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-06-17",
+      "datetime": "1718625284",
+      "filename": "aospa-uvite-beta-marble-20240617.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-marble-20240617.zip",
+      "recovery_sha256": "78a60599a9a0551671998938ea16428285dbe6239c3efe59943b28139a94afde  ",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-marble-20240617-image.zip",
+      "fastboot_sha256": "9d17ad1dfbb04201ed0ae43254887277267b9d5acd4c69db35d4f9bb09d5c318",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-4",
+      "size": "2390072568",
+      "build_type": "Beta",
+      "version_code": "4",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-06-05",
+      "changelog_device": "Fixed inconsistent behaviour with Dolby, Fix default action on Double Tap Fingerprint, Updated Kernel, Improved stability and system performance"
+    },
+    {
       "date": "2024-04-20",
       "datetime": "1713604251",
       "filename": "aospa-uvite-beta-marble-20240420.zip",
