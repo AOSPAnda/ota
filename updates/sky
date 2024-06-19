@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-06-17",
+      "datetime": "1718600240",
+      "filename": "aospa-uvite-beta-sky-20240617.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-sky-20240617.zip",
+      "recovery_sha256": "cabcf5498cf5df56178bce9a175da764815901c16f932a7ccb1bf4d552cac471",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-sky-20240617-image.zip",
+      "fastboot_sha256": "0d75bf4d7fec2e2a2610f832a13699093abf54d867acf5ba548bd19e65cd89cb",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-5",
+      "size": "1848998982",
+      "build_type": "Beta",
+      "version_code": "5",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-06-05",
+      "changelog_device": "Updated blobs to OS1.0.4.0.UMWINXM, Enabled QGPE, Improved stability and system performance"
+    },
+    {
       "date": "2024-04-13",
       "datetime": "1713000651",
       "filename": "aospa-uvite-beta-sky-20240413.zip",
