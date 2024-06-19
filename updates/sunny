@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-06-17",
+      "datetime": "1718629610",
+      "filename": "aospa-uvite-beta-sunny-20240617.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-sunny-20240617.zip",
+      "recovery_sha256": "53c89e7c8bf6b86cbfc17cceef50a974aebce2aa4d388d453f6343446a9bc50a",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-sunny-20240617-image.zip",
+      "fastboot_sha256": "d43eeceb9d6ba4b2cf56fac5344c6eb59229c94b8052af0df53767233324e3f2",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-5",
+      "size": "2216801936",
+      "build_type": "Beta",
+      "version_code": "5",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-06-05",
+      "changelog_device": "Switched to AIDL QSPM service."
+    },
+    {
       "date": "2024-05-30",
       "datetime": "1717067908",
       "filename": "aospa-uvite-beta-sunny-20240530.zip",

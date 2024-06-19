@@ -50,7 +50,7 @@ fastboot flash xbl_config_b xbl_config.img
 ## Recovery installation
 
 1. Click on the Recovery Option to download the Recovery ROM of AOSPA.
-2. Download the recovery zip from [here](https://drive.google.com/file/d/1EZaKP3Ot6rfNs9_ccxLWSmOLluP_ke6Z/view?usp=sharing).
+2. Download the recovery zip from [here](https://drive.google.com/file/d/10gkhikhdorJQ0EPhIM7bGUcqLgjE2R1S/view?usp=sharing).
 3. Execute this command: `fastboot update recovery-AOSPA-*.zip`
 4. Ignore `fastboot: error: could not load ’system.img’: No such file or directory`
 5. Reboot to recovery via `fastboot reboot recovery`.
