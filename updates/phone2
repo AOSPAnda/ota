@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-06-19",
+      "datetime": "1718795677",
+      "filename": "aospa-uvite-beta-phone2-20240619-image.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone2-20240619.zip",
+      "recovery_sha256": "ccc9ed957d862df4a3e429d6cbb533789356c5907ff71b8f8237188dd1411eb9",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone2-20240619-image.zip",
+      "fastboot_sha256": "f7c1221d347c1f705d6c5d1c847c336e7733c6f26c6f8dc6922065d2d1b95e1e",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-3",
+      "size": "2409710443",
+      "build_type": "Beta",
+      "version_code": "3",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-06-05",
+      "changelog_device": "Updated blobs and firmware to 2.5.6, Merged latest CLO and ACK tags for kernel, Improved stability and system performance"
+    },
+    {
       "date": "2024-04-15",
       "datetime": "1713175023",
       "filename": "aospa-uvite-beta-phone2-20240415-image.zip",
