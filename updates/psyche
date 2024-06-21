@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-06-17",
+      "datetime": "1718621522",
+      "filename": "aospa-uvite-beta-psyche-20240617.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-psyche-20240617.zip",
+      "recovery_sha256": "f6b1e60cbf70e83524e6b6d0549a1cd3542585c42effba6ccaab1fbb9e5b1b05",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-psyche-20240617-image.zip",
+      "fastboot_sha256": "0edb75c59701851d8f38c870e1dfe59696407d7e2a7861b7f80b73583e9d56e9",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-5",
+      "size": "2409710645",
+      "build_type": "Beta",
+      "version_code": "5",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-06-05",
+      "changelog_device": "Minor fixes and improvements"
+    },
+    {
       "date": "2024-05-31",
       "datetime": "1717163303",
       "filename": "aospa-uvite-beta-psyche-20240531.zip",
