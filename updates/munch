@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-06-16",
+      "datetime": "1718525722",
+      "filename": "aospa-uvite-beta-munch-20240616.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-munch-20240616.zip",
+      "recovery_sha256": "803dc218ad5102d045bbe67e2ebf53e43027624714c6803b3725bdf3ce7749c1",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-munch-20240616-image.zip",
+      "fastboot_sha256": "711b186b376dad6e45ddb32eaf4cc58419fc0b84cc7e889b43372d1b2f6feb31",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-5",
+      "size": "2397972872",
+      "build_type": "Beta",
+      "version_code": "5",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-06-05",
+      "changelog_device": "Fixed offline charging animation, Minor fixes and improvements"
+    },
+    {
       "date": "2024-05-31",
       "datetime": "1717152919",
       "filename": "aospa-uvite-beta-munch-20240531.zip",
