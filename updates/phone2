@@ -1,5 +1,24 @@
 {
   "updates": [
+   {
+      "date": "2024-06-24",
+      "datetime": "1718795677",
+      "filename": "aospa-uvite-beta-phone2-20240623-image.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone2-20240623.zip",
+      "recovery_sha256": "a1c1a17f3971302800f92f14bc597f5adb38815a0b5c2c7948ccb905ec56d13d",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone2-20240623-image.zip",
+      "fastboot_sha256": "b11f0bf272b9f6bd6fba3a005ca7d49e1a9aebb18694147d0f46eb1bf20efecf",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-3.1",
+      "size": "2409882056",
+      "build_type": "Beta",
+      "version_code": "3.1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-06-05",
+      "changelog_device": "Merged latest ACK tag for kernel and newer CLO tag for kernel DTS, Various improvements to battery life, Improvements for fingerprint sensor",
+    },
     {
       "date": "2024-06-19",
       "datetime": "1718795677",
