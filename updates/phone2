@@ -1,6 +1,6 @@
 {
   "updates": [
-   {
+    {
       "date": "2024-06-24",
       "datetime": "1718795677",
       "filename": "aospa-uvite-beta-phone2-20240623-image.zip",
@@ -17,7 +17,7 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2024-06-05",
-      "changelog_device": "Merged latest ACK tag for kernel and newer CLO tag for kernel DTS, Various improvements to battery life, Improvements for fingerprint sensor",
+      "changelog_device": "Merged latest ACK tag for kernel and newer CLO tag for kernel DTS, Various improvements to battery life, Improvements for fingerprint sensor"
     },
     {
       "date": "2024-06-19",
