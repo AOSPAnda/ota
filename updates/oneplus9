@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-06-20",
+      "datetime": "1718867923",
+      "filename": "aospa-uvite-beta-oneplus9-20240620.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-oneplus9-20240620.zip",
+      "recovery_sha256": "1e9e67a3fe97f4722805c8e7903480b01bdf6511e7ed3907a0d6a5ccf539a1bb",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-oneplus9-20240620-image.zip",
+      "fastboot_sha256": "6d02f8f065a14031b182192098f4d99e00c74a396ae99d961b4a48b91c65ed18",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-6",
+      "size": "2534230057",
+      "build_type": "Beta",
+      "version_code": "6",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-06-05",
+      "changelog_device": "Fixed memory management issues, Switched to CLO Telephony Stack, Fixed low mic issues on VOIP Calls, Upgrade to AIDL Sensor HAL, Dual SIM enabled on T-Mobile devices"
+    },
+    {
       "date": "2024-04-12",
       "datetime": "1712897690",
       "filename": "aospa-uvite-beta-oneplus9-20240412.zip",
