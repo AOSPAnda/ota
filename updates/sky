@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-06-20",
+      "datetime": "1718898228",
+      "filename": "aospa-uvite-beta-sky-20240620.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-sky-20240620.zip",
+      "recovery_sha256": "e176bc3adec4b6bd0279a16b952c6079f4df45032d26db794ec1976993fb6b24",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-sky-20240620-image.zip",
+      "fastboot_sha256": "c5f7e14a3644051ca0b4859b745340681b86712a5a5cffa6bae7468c0bd3de48",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-5.1",
+      "size": "1845887346",
+      "build_type": "Beta",
+      "version_code": "5.1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-06-05",
+      "changelog_device": "Reduced drains, removed xiaomiparts, fixed goodix fp."
+    },
+    {
       "date": "2024-06-17",
       "datetime": "1718600240",
       "filename": "aospa-uvite-beta-sky-20240617.zip",
