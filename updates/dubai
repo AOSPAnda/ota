@@ -1,6 +1,25 @@
 {
   "updates":[
-    {
+     {
+      "date": "2024-07-08",
+      "datetime": "1720410000",
+      "filename": "aospa-uvite-beta-dubai-20240708.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-dubai-20240708.zip",
+      "recovery_sha256": "49125202bd4d571708ff6cabdbd7b9dd58336d600426731ecf5198cadf72a9d7",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-dubai-20240708-image.zip",
+      "fastboot_sha256": "e3caf5b9c8ff7e8982d20841deb95c9a49d91ecba6785e177118d76e5dd3b5cb",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-1",
+      "size": "2061735551",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-07-05",
+      "changelog_device": "Initial Release"
+     },
+     {
       "date": "2023-08-27",
       "datetime": "1693063718",
       "filename": "aospa-topaz-1-dubai-20230826.zip",
