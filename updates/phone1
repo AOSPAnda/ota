@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-07-18",
+      "datetime": "1721319729",
+      "filename": "aospa-uvite-beta-phone1-20240718.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone1-20240718.zip",
+      "recovery_sha256": "81ee27338b1a83c8b6916cc775182d58e8700c5d6baa9a86a2599c73185df725",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-phone1-20240718-image.zip",
+      "fastboot_sha256": "b98c6de3022c12201846fa05a0658f51430f14a7dcf5cbe3883fd07e5d16db02",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-9",
+      "size": "2136227983",
+      "build_type": "Beta",
+      "version_code": "9",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-07-05",
+      "changelog_device": "Updated blobs and firmware to NothingOS 2.6"
+    },
+    {
       "date": "2024-07-11",
       "datetime": "1720666884",
       "filename": "aospa-uvite-beta-phone1-20240711.zip",
