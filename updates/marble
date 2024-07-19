@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-07-19",
+      "datetime": "1721356662",
+      "filename": "aospa-uvite-beta-marble-20240719.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-marble-20240719.zip",
+      "recovery_sha256": "765d9cac2ade68c90a8eb33562634ad51701c22ed548494793f0c90672e04588  ",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-marble-20240719-image.zip",
+      "fastboot_sha256": "bcdc93383162a0b0770e5e75f4f9ac59a9bf0c59356f7bfdcb83bdeab775e703",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-5",
+      "size": "2386943284",
+      "build_type": "Beta",
+      "version_code": "5",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-07-05",
+      "changelog_device": "Rewritten custom Dolby App, Fixed Dolby profiles resetting after reboot, Fixed scrolling inconsistencies, Updated GKI Kernel, Improved stability and system performance"
+    },
+    {
       "date": "2024-06-17",
       "datetime": "1718625284",
       "filename": "aospa-uvite-beta-marble-20240617.zip",
