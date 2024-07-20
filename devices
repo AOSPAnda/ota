@@ -1024,7 +1024,7 @@
                "name": "Mi 11 LE",
                "codename": "lisa",
                "manufacturer": "Xiaomi",
-               "active": true,
+               "active": false,
                "maintainers": [
                     {
                          "name": "adithya2306",
@@ -1038,7 +1038,7 @@
                "name": "11 Lite NE",
                "codename": "lisa",
                "manufacturer": "Xiaomi",
-               "active": true,
+               "active": false,
                "maintainers": [
                     {
                          "name": "adithya2306",
