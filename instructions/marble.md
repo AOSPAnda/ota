@@ -1,8 +1,8 @@
 ## For clean flash/from MIUI/HyperOS/any other ROM
 
 - Take a backup
-- In your PC, download and extract the flashing kit from [here](https://github.com/ghostrider-reborn/aospa-flashing-kit/archive/refs/heads/marble.zip)
-- Follow the steps given in `README.md`, or read [here](https://github.com/ghostrider-reborn/aospa-flashing-kit#steps)
+- In your PC, download and extract the flashing kit from [here](https://github.com/adithya2306/aospa-flashing-kit/archive/refs/heads/marble.zip)
+- Follow the steps given in `README.md`, or read [here](https://github.com/adithya2306/aospa-flashing-kit#steps)
 - Once all the steps are completed, enter recovery mode
 - If you're coming from stock or another ROM, factory data reset is required. Otherwise skip this step if you're coming from Topaz or Uvite Unofficial.
 - Reboot to system.
