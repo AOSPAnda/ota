@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-07-22",
+      "datetime": "1721638290",
+      "filename": "aospa-uvite-beta-sky-20240722.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-sky-20240722.zip",
+      "recovery_sha256": "dcc7cd689b19eaf426102f729093d3d4a79bcbece8bced9e5a5e47f1f78baf50",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-sky-20240722-image.zip",
+      "fastboot_sha256": "7a5a5681835650fd5e38737878ce13a98c12069a620488e2bf0c8a8ae89475df",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-6",
+      "size": "1844597804",
+      "build_type": "Beta",
+      "version_code": "6",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-07-05",
+      "changelog_device": ""
+    },
+    {
       "date": "2024-06-20",
       "datetime": "1718898228",
       "filename": "aospa-uvite-beta-sky-20240620.zip",
