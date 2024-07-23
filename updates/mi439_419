@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-07-22",
+      "datetime": "1721643284",
+      "filename": "aospa-uvite-beta-mi439_419-20240722.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-mi439_419-20240722.zip",
+      "recovery_sha256": "4c04fd5622f5e15d10f57d9a9790b2e2516e4ace337e7db81af3603a03bb3fcd",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-7",
+      "size": "1912294770",
+      "build_type": "Beta",
+      "version_code": "7",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-07-05",
+      "changelog_device": "Some device tree updates, Added Light QS"
+    },
+    {
       "date": "2024-07-08",
       "datetime": "1720454880",
       "filename": "aospa-uvite-beta-mi439_419-20240708.zip",
