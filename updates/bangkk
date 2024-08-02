@@ -17,7 +17,7 @@
       "version": "Uvite",
       "android_version": "14",
       "android_spl": "2024-07-05",
-      "changelog_device": ""
+      "changelog_device": "August 2023 security patch, Fixed MIUI camera crash in Chinese variants, Updated MIUI blobs and firmware to V14.0.4.0.TKOMIXM, Updated Leica camera to v5.0.230706.0, Set AOD refresh rate to 60 Hz, Enabled Secure NFC feature, Updated kernel to latest CLO tag, Fixed display glitching for some users."
     }
   ]
 }
